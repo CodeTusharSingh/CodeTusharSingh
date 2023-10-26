@@ -1,7 +1,7 @@
 
 👋 Hi, I’m Tushar Singh.
 
-🌱 I’m currently learning Java, Web and DSA.
+🌱 I’m currently learning Java, React and DSA.
 
 💞️ I’m looking to collaborate on minor or major project.
 
